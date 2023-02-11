@@ -1,0 +1,11 @@
+    .VendasEfetuadas{
+    position: absolute;
+    top: 0px;
+    width: 1100px;
+    height: 580px;
+    left: 420px;
+    background-color: rgb(213, 213, 213);
+}
+#nomeTitulo{
+    top: 0px;
+}

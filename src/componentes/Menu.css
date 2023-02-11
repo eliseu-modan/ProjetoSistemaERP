@@ -1,0 +1,167 @@
+.Menu{
+    position: absolute;
+    left:10px ;
+    top: 120px;
+    height: 550px;
+    width: 350px;
+    background-color:  #ffffff;
+    border:solid 2px black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 35px;
+}
+
+
+
+#NomePaineldeControle{
+    position: relative;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    font-family: 'Roboto Mono', monospace;
+    top: 20px;
+    padding:10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    left: 0px;
+    opacity: 80%;
+    text-decoration: none;
+    border: solid 1px black;
+}
+
+
+
+#NomeCadastrarCliente{
+    position: relative;
+    color: rgb(10, 5, 5);
+    font-size: larger;
+    font-family: 'Roboto Mono', monospace;
+    top: 47px;
+    padding:10px;
+    padding-left: 70px;
+    padding-right: 82px;
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    left: 0px;
+    opacity: 80%;
+    text-decoration: none;
+    border: solid 1px black;
+
+}
+#NomeCadastrarProduto{
+    position: relative;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    font-family: 'Roboto Mono', monospace;
+    top: 75px;
+    padding:10px;
+    padding-left: 70px;
+    padding-right: 82px;
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    left: 0px;
+    opacity: 80%;
+    text-decoration: none;
+    border: solid 1px black;
+
+}
+#NomeCadastrarVendas{
+    position: relative;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    font-family: 'Roboto Mono', monospace;
+    top: 102px;
+    padding:10px;
+    padding-left: 70px;
+    padding-right: 103px;
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    left: 0px;
+    opacity: 80%;
+    text-decoration: none;
+    border: solid 1px black;
+
+}
+#NomeVendasEfetuadas{
+    position: relative;
+    color: rgb(3, 2, 2);
+    font-size: larger;
+    font-family: 'Roboto Mono', monospace;
+    top: 130px;
+    padding:10px;
+    padding-left: 70px;
+    padding-right: 68px;
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    left: 0px;
+    opacity: 80%;
+    text-decoration: none;
+    border: solid 1px black;
+
+}
+#NomeCliente{
+    position: relative;
+    color: rgb(2, 1, 1);
+    font-size: larger;
+    font-family: 'Roboto Mono', monospace;
+    top: 158px;
+    padding:10px;
+    padding-left: 70px;
+    padding-right: 45px;
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    left: 0px;
+    opacity: 80%;
+    text-decoration: none;
+    border: solid 1px black;
+
+}
+#NomeProduto{
+    position: relative;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    font-family: 'Roboto Mono', monospace;
+    top: 185px;
+    padding:10px;
+    padding-left: 70px;
+    padding-right: 45px;
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    left: 0px;
+    opacity: 80%;
+    text-decoration: none;
+    border: solid 1px black;
+
+}
+#NomeEstoque{
+    position: relative;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    font-family: 'Roboto Mono', monospace;
+    top: 213px;
+    padding:10px;
+    padding-left: 130px;
+    padding-right: 136px;
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    left: 0px;
+    opacity: 80%;
+    text-decoration: none;
+    border: solid 1px black;
+
+}
+#inicio{
+position: absolute;
+left: 110%;
+top: -95px;
+
+    padding: 10px;
+    border-radius: 10px;
+    border: solid 2px #00bf8f;
+     text-decoration:  none;
+     color: white;
+ 
+
+}
+

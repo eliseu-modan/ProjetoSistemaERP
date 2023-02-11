@@ -1,0 +1,128 @@
+#TeladeLogin{
+    position: absolute;
+    top: 10px;
+    left: -1px;
+ width: 1530px;
+ height: 720px;
+    /* padding: 300px; */
+    background-color: rgb(255, 255, 255);
+    z-index: 1;
+    opacity: 65%;
+}
+#formulario{
+    position: absolute;
+    padding: 210px;
+    left: 600px;
+    top: 200px;
+    background-color: black;
+    border: solid 3px #00bf8f;
+    /* z-index: 10; */
+}
+#button{
+    position: absolute;
+    top: 300px;
+    width: 350px;
+    left: 40px;
+
+}
+#cancelar{
+    position: relative;
+    left: 95px;
+    top: 25px;
+    text-decoration: none;
+    color: rgb(170, 170, 170);
+    background-color: black;
+    font-size: larger;
+    padding: 2px;
+    border: solid 2px white ;
+    border-radius: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#login{
+    position: relative;
+    left:70px;
+    top: -75px;
+    text-decoration: none;
+    background-color: black;
+    font-size: larger;
+    padding: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    color: #00bf8f;
+    border: solid 2px;
+    border-radius: 10px;
+}
+
+#cadastrar{
+    position: relative;
+    left:270px;
+    top: 20px;
+    text-decoration: none;
+    background-color: black;
+    font-size: 10pt;
+    padding: 3px;
+    color: #ffffff;
+    border: solid 2px;
+    border-radius: 10px;
+    opacity: 70%;
+}
+#Nome{
+    position: absolute;
+    top: -100px;
+    left: -100px;
+    color: #d21919;
+    
+}
+.form{
+    position: absolute;
+    left: 600px;
+    width: 415px;
+    display: block;
+    padding: 10px;
+    overflow: hidden;
+    background-color: black;
+    border: solid 3px #00bf8f;
+
+}
+#nomeLogin{
+    position: relative;
+    color: #ffffff;
+    
+    top: 20px;
+    left: 20px;
+    font-size: larger;
+ font-style: italic;
+ font-size: 20pt;
+}
+#inputnome{
+    position: relative;
+    color: #000000;
+    
+    top: 20px;
+    left: 47px;
+    font-size: larger;
+ font-style: italic;
+ font-size: 15pt;
+}
+#senhaLogin{
+    position: absolute;
+    color: #ffffff;
+    
+    top: 80px;
+    left: 20px;
+    font-size: larger;
+ font-style: italic;
+ font-size: 20pt;
+}
+#inputsenha{
+    position: relative;
+    color: #000000;
+    
+    top: 40px;
+    left: 110px;
+    font-size: larger;
+ font-style: italic;
+ font-size: 15pt;
+}

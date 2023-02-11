@@ -1,0 +1,47 @@
+.ComponenteCadastrarVendas{
+    position: absolute;
+    top: 0px;
+    width: 1050px;
+    height: 580px;
+    left: 110%;
+    background-color: white;
+    border: solid 2px black;
+
+}
+
+#inputTipoVenda{
+width: 310px;
+left: 35px;
+}
+#nomeTitulo{
+    position: absolute;
+    left: 30%;
+    font-size: larger;
+    font-size: 19pt;
+    color: #00bf8f;
+    top: 60px;
+}
+#inputNome{
+    position: relative;
+    left: 25px;
+}
+#inputRazaoSocial{
+    position: relative;
+    left: 35px;
+}
+#inputCnpj-Cpf{
+    position: relative;
+    left: 65px;
+}
+#inputEmail{
+position: absolute;
+left: 200px;
+}
+#nomeTituloVenda{
+    position: absolute;
+    left: 30%;
+    font-size: larger;
+    font-size: 19pt;
+    color: #00bf8f;
+    top: 30px;
+}

@@ -1,0 +1,20 @@
+.ClientesCadastrados{
+    position: absolute;
+    top: 0px;
+    width: 1100px;
+    height: 580px;
+    left: 110%;
+    background-color: rgb(213, 213, 213);
+}
+.nomeClientesCadstrados{
+    position: absolute;
+    left: 30%;
+    font-size: larger;
+    font-size: 19pt;
+    color: #00bf8f;
+    top: 0px;
+}
+#positionTabela{
+position: absolute;
+    top: 50px;
+}

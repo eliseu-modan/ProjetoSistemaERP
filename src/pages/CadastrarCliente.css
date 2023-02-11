@@ -1,0 +1,117 @@
+.ComponenteCadastrarCliente{
+    position: absolute;
+    top: 0px;
+    width: 1050px;
+    height: 580px;
+    left: 110%;
+    background-color: white;
+    border: solid 2px black;
+     
+   
+}
+#nomeCadastrar{
+    position: absolute;
+    left: 30%;
+    font-size: larger;
+    font-size: 19pt;
+    color: #00bf8f;
+    top: 30px;
+
+
+}
+
+.form-control{
+    position: relative;
+    left: 30px;
+    width: 300px;
+}
+#inputNome{
+    font-size: larger;
+    font-size: 12pt;
+    left: 2.5pc;
+}
+#descriçaoNome,#descriçaoRazao,#nomeCnpj,#nomeFundaçao,#nomeContato,#nomeEmail{
+font-size: 13pt;
+color: white;
+}
+form{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    padding: 20px;
+    border: solid 2px black;
+    overflow-y:scroll;
+    height: 400px;
+    background-color: rgb(112, 112, 112);
+    width: 650px;
+
+}
+.form-row,.form-group{
+    padding:10px;
+}
+#inputRazaoSocial{
+    font-size: larger;
+    font-size: 13pt;
+    left: 3pc;
+}
+#inputCnpj-Cpf{
+    position: absolute;
+    font-size: larger;
+    font-size: 12pt;
+left: 210px;
+}
+#nomeCnpj{
+    position:relative;
+    left: 10px;
+    color: white;
+}
+#nomeFundaçao{
+    position: relative;
+    left: 12px;
+    color: white;
+}
+#inputDateFundaçao{
+    position: absolute;
+    font-size: larger;
+    font-size: 12pt;
+left: 200px;
+}
+#inputCity,#inputEstado,#inputCEP,#inputTelefone,#inputEmail,#inputProfissao{
+    position: absolute;
+    font-size: larger;
+    font-size: 12pt;
+left: 200px;
+}
+#nomeCity,#nomeEstado,#nomeCep{
+    font-size: larger;
+    font-size: 15pt;
+    color: white;
+
+
+}
+#nomeContato{
+    position: relative;
+    left: 12px;
+    color: white;
+}
+#nomeEmail{
+    position: relative;
+    left:3px;
+}
+#nomeProfissao{
+    position: relative;
+    left:15px;
+    font-size: 15pt;
+    color: white;
+}
+.btn{
+    position: relative;
+    background-color: #00bf8f;
+    left:350px;
+    padding: 10px;
+    top: 10px;
+}
+
+#inputEstado{
+    width: 310px;
+}

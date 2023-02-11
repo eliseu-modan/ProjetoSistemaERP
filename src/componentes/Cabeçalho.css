@@ -1,0 +1,31 @@
+.Cabeçalho{
+    position: relative;
+    top: -10px;
+    left: -8px;
+    padding-right: 6px;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(64, 64, 64);
+    border:solid 5px rgb(64, 64, 64);
+}
+#nome{
+    position: absolute;
+    left: 80px;
+    top: 30px;
+    color:  #00bf8f;
+    font-size: x-large;
+    font-size: 25pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+#login__usuario{
+position: absolute;
+color: #ffffff;
+font-size: larger;
+left: 90%;
+top: 25px;
+text-decoration: none;
+padding: 10px;
+border: solid 2px #00bf8f;
+border-radius: 10px;
+}
